@@ -3,6 +3,8 @@ title: Etimology
 layout: default
 ---
 
+<link rel="icon" href="icon.png">
+
 # Hello there, I'm Mattia 👋
 - 🌱 I’m learning Python, Ruby, Batch Script
 - 🔭 I’m currently working on new projects
