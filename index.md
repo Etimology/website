@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Hello there, I'm Mattia 👋
-- 🌱 I’m learning Python, Ruby, Batch Script
+- 🌱 I’m learning Python, Ruby, Pascal
 - 🔭 I’m currently working on new projects
 
 ---
