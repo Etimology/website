@@ -14,7 +14,6 @@ layout: default
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-792EE5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/r-00ADD8?style=for-the-badge&logo=r&logoColor=white"/>
 </div>
 
 ---
