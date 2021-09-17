@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Hello there, I'm Mattia 👋
-- 🌱 I’m learning Python, Ruby, Kotlin, R
+- 🌱 I’m learning Python, Ruby, Kotlin
 - 🔭 I’m currently working on new projects
 
 ---
