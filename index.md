@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Hello there, I'm Mattia 👋
-- 🌱 I’m learning Python, Ruby, Kotlin
+- 🌱 I’m learning Python, Kotlin
 - 🔭 I’m currently working on new projects
 
 ---
@@ -12,7 +12,6 @@ layout: default
 ## ⚡️ Skills
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
   <img src="https://img.shields.io/badge/kotlin-792EE5?style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div>
 
